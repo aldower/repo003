@@ -1,4 +1,4 @@
-name: Primer Workflow
+name: Galaxy Workflow
 on : workflow_dispatch
 jobs:
   primer-job:
